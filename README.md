@@ -9,6 +9,9 @@ An enterprise-grade analytics solution built using Microsoft Fabric, implementin
 
 This project demonstrates a complete modern data platform implementation using Microsoft Fabric:
 
+<img width="2555" height="942" alt="Medallion Architecture Design" src="https://github.com/user-attachments/assets/be8307ac-632b-4719-bf1b-4fd593e7fcbb" />
+
+
 🔹 Data Ingestion via Pipelines 🔹 Lakehouse-based Medallion Architecture  🔹 PySpark Transformations (Notebooks)  
 
 🔹 Star Schema Modeling  🔹 Semantic Model (Power BI)  🔹 KPI Dashboard Reporting
@@ -95,7 +98,8 @@ ShoppingMart_Analytics_LT_KPI
 
 ## 📊 Power BI Dashboard – KPI Report
 
-📄 Full Dashboard PDF:
+<img width="967" height="550" alt="image" src="https://github.com/user-attachments/assets/5f5bc854-5460-4237-9f6a-50214acba347" />
+
 
 📌 Key Metrics from Dashboard
 
